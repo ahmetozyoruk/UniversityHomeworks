@@ -1,0 +1,6 @@
+C:\Users\gecic\Desktop\WPF-Samples-master\InfoProject\bin\Debug\InfoProject.dll
+C:\Users\gecic\Desktop\WPF-Samples-master\InfoProject\bin\Debug\InfoProject.pdb
+C:\Users\gecic\Desktop\WPF-Samples-master\InfoProject\obj\Debug\InfoProject.csprojAssemblyReference.cache
+C:\Users\gecic\Desktop\WPF-Samples-master\InfoProject\obj\Debug\InfoProject.csproj.CoreCompileInputs.cache
+C:\Users\gecic\Desktop\WPF-Samples-master\InfoProject\obj\Debug\InfoProject.dll
+C:\Users\gecic\Desktop\WPF-Samples-master\InfoProject\obj\Debug\InfoProject.pdb

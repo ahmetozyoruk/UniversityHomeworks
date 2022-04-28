@@ -1,0 +1,17 @@
+C:\Users\gecic\Desktop\WPF-Samples-master\Animation\LocalAnimations\bin\Debug\netcoreapp3.1\LocalAnimations.exe
+C:\Users\gecic\Desktop\WPF-Samples-master\Animation\LocalAnimations\bin\Debug\netcoreapp3.1\LocalAnimations.dll.config
+C:\Users\gecic\Desktop\WPF-Samples-master\Animation\LocalAnimations\bin\Debug\netcoreapp3.1\LocalAnimations.deps.json
+C:\Users\gecic\Desktop\WPF-Samples-master\Animation\LocalAnimations\bin\Debug\netcoreapp3.1\LocalAnimations.runtimeconfig.json
+C:\Users\gecic\Desktop\WPF-Samples-master\Animation\LocalAnimations\bin\Debug\netcoreapp3.1\LocalAnimations.runtimeconfig.dev.json
+C:\Users\gecic\Desktop\WPF-Samples-master\Animation\LocalAnimations\bin\Debug\netcoreapp3.1\LocalAnimations.dll
+C:\Users\gecic\Desktop\WPF-Samples-master\Animation\LocalAnimations\bin\Debug\netcoreapp3.1\LocalAnimations.pdb
+C:\Users\gecic\Desktop\WPF-Samples-master\Animation\LocalAnimations\obj\Debug\netcoreapp3.1\LocalAnimations.csprojAssemblyReference.cache
+C:\Users\gecic\Desktop\WPF-Samples-master\Animation\LocalAnimations\obj\Debug\netcoreapp3.1\LocalAnimations.dll.config
+C:\Users\gecic\Desktop\WPF-Samples-master\Animation\LocalAnimations\obj\Debug\netcoreapp3.1\LocalAnimations.Properties.Resources.resources
+C:\Users\gecic\Desktop\WPF-Samples-master\Animation\LocalAnimations\obj\Debug\netcoreapp3.1\LocalAnimations.csproj.GenerateResource.cache
+C:\Users\gecic\Desktop\WPF-Samples-master\Animation\LocalAnimations\obj\Debug\netcoreapp3.1\LocalAnimations.AssemblyInfoInputs.cache
+C:\Users\gecic\Desktop\WPF-Samples-master\Animation\LocalAnimations\obj\Debug\netcoreapp3.1\LocalAnimations.AssemblyInfo.cs
+C:\Users\gecic\Desktop\WPF-Samples-master\Animation\LocalAnimations\obj\Debug\netcoreapp3.1\LocalAnimations.csproj.CoreCompileInputs.cache
+C:\Users\gecic\Desktop\WPF-Samples-master\Animation\LocalAnimations\obj\Debug\netcoreapp3.1\LocalAnimations.dll
+C:\Users\gecic\Desktop\WPF-Samples-master\Animation\LocalAnimations\obj\Debug\netcoreapp3.1\LocalAnimations.pdb
+C:\Users\gecic\Desktop\WPF-Samples-master\Animation\LocalAnimations\obj\Debug\netcoreapp3.1\LocalAnimations.genruntimeconfig.cache

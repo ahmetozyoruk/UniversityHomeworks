@@ -1,0 +1,31 @@
+
+
+Hocam benim projem windows klosorunde 3 designi uygulamakti. 
+
+Hepsine uygulayamadim (beceremedim), dolayisiyla sadece uc tane projesine dediginiz 3 designi
+uygulamaya calistim.
+
+kodlari biraz https://refactoring.guru/design-patterns/csharp adresinden alarak ve bunlari degistirerek 
+projelere uygulamaya calistim.
+
+Desen Proje altinda Pattern klasorunde toplu bir sekilde duruyor.
+ve ana kodda ki degisikler assagida gosterdigim klasorlerde. 
+
+CustomWindowUI	--> Strategy Pattern		
+					CustomWindowChrome.cs icerisinde ki
+						private void CloseButtonRectangle_Click icerisinde 
+						ve
+						private void Window_MouseLeftButtonDown icerisinde 
+
+
+Notification	--> Observer Pattern
+					MainWindow.cs icerisinde ki 
+						private void Click icerisinde 
+
+
+WindowHiding	--> Decorator Pattern
+					ChildWindow icerisinde ki 
+						public ChildWindow() icerisinde 
+						ve
+						private void Window_IsVisibleChanged icerisinde 
+						

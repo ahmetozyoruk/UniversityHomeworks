@@ -1,0 +1,10 @@
+C:\Users\gecic\Desktop\WPF-Samples-master\Client\bin\Debug\Client.exe.config
+C:\Users\gecic\Desktop\WPF-Samples-master\Client\bin\Debug\Client.exe
+C:\Users\gecic\Desktop\WPF-Samples-master\Client\bin\Debug\Client.pdb
+C:\Users\gecic\Desktop\WPF-Samples-master\Client\bin\Debug\InfoProject.dll
+C:\Users\gecic\Desktop\WPF-Samples-master\Client\bin\Debug\InfoProject.pdb
+C:\Users\gecic\Desktop\WPF-Samples-master\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\gecic\Desktop\WPF-Samples-master\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\gecic\Desktop\WPF-Samples-master\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\gecic\Desktop\WPF-Samples-master\Client\obj\Debug\Client.exe
+C:\Users\gecic\Desktop\WPF-Samples-master\Client\obj\Debug\Client.pdb

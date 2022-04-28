@@ -1,0 +1,21 @@
+
+    Patternlar hangi klasorlerde ?	
+---------------------------------------
+	
+-->	FetchTimer ==> Singleton Pattern
+
+-->	FindText ==> Abstract Factory Pattern
+
+-->	FocusTracker ==> Facade Pattern
+				! Hocam burada bir hata cikiyor, uygulamis 
+				oldugum pattern da bir hata yok aslinda,
+				sorun almis oldugum bu projeden kaynaklaniyor. 			
+
+
+-->	InvokePattern/Target ==> Command Pattern
+
+-->	SelectionPattern/SelectionTarget ==> Adapter Pattern
+
+
+	(Uyguladigim patternler .cs file'lari bu projelerin altindaki
+	pattern klasorlerinde toplandi.)

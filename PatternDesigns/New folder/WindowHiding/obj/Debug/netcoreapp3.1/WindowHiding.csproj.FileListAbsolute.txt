@@ -1,0 +1,50 @@
+C:\Users\IEUser\Desktop\WPF-Samples-master\Windows\WindowHiding\bin\Debug\netcoreapp3.1\WindowHiding.exe
+C:\Users\IEUser\Desktop\WPF-Samples-master\Windows\WindowHiding\bin\Debug\netcoreapp3.1\WindowHiding.dll.config
+C:\Users\IEUser\Desktop\WPF-Samples-master\Windows\WindowHiding\bin\Debug\netcoreapp3.1\WindowHiding.deps.json
+C:\Users\IEUser\Desktop\WPF-Samples-master\Windows\WindowHiding\bin\Debug\netcoreapp3.1\WindowHiding.runtimeconfig.json
+C:\Users\IEUser\Desktop\WPF-Samples-master\Windows\WindowHiding\bin\Debug\netcoreapp3.1\WindowHiding.runtimeconfig.dev.json
+C:\Users\IEUser\Desktop\WPF-Samples-master\Windows\WindowHiding\bin\Debug\netcoreapp3.1\WindowHiding.dll
+C:\Users\IEUser\Desktop\WPF-Samples-master\Windows\WindowHiding\bin\Debug\netcoreapp3.1\WindowHiding.pdb
+C:\Users\IEUser\Desktop\WPF-Samples-master\Windows\WindowHiding\obj\Debug\netcoreapp3.1\WindowHiding.dll.config
+C:\Users\IEUser\Desktop\WPF-Samples-master\Windows\WindowHiding\obj\Debug\netcoreapp3.1\ChildWindow.g.cs
+C:\Users\IEUser\Desktop\WPF-Samples-master\Windows\WindowHiding\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\IEUser\Desktop\WPF-Samples-master\Windows\WindowHiding\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\IEUser\Desktop\WPF-Samples-master\Windows\WindowHiding\obj\Debug\netcoreapp3.1\WindowHiding_MarkupCompile.cache
+C:\Users\IEUser\Desktop\WPF-Samples-master\Windows\WindowHiding\obj\Debug\netcoreapp3.1\WindowHiding_MarkupCompile.lref
+C:\Users\IEUser\Desktop\WPF-Samples-master\Windows\WindowHiding\obj\Debug\netcoreapp3.1\ChildWindow.baml
+C:\Users\IEUser\Desktop\WPF-Samples-master\Windows\WindowHiding\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\IEUser\Desktop\WPF-Samples-master\Windows\WindowHiding\obj\Debug\netcoreapp3.1\WindowHiding.g.resources
+C:\Users\IEUser\Desktop\WPF-Samples-master\Windows\WindowHiding\obj\Debug\netcoreapp3.1\WindowHiding.Properties.Resources.resources
+C:\Users\IEUser\Desktop\WPF-Samples-master\Windows\WindowHiding\obj\Debug\netcoreapp3.1\WindowHiding.csproj.GenerateResource.cache
+C:\Users\IEUser\Desktop\WPF-Samples-master\Windows\WindowHiding\obj\Debug\netcoreapp3.1\WindowHiding.AssemblyInfoInputs.cache
+C:\Users\IEUser\Desktop\WPF-Samples-master\Windows\WindowHiding\obj\Debug\netcoreapp3.1\WindowHiding.AssemblyInfo.cs
+C:\Users\IEUser\Desktop\WPF-Samples-master\Windows\WindowHiding\obj\Debug\netcoreapp3.1\WindowHiding.csproj.CoreCompileInputs.cache
+C:\Users\IEUser\Desktop\WPF-Samples-master\Windows\WindowHiding\obj\Debug\netcoreapp3.1\WindowHiding.dll
+C:\Users\IEUser\Desktop\WPF-Samples-master\Windows\WindowHiding\obj\Debug\netcoreapp3.1\WindowHiding.pdb
+C:\Users\IEUser\Desktop\WPF-Samples-master\Windows\WindowHiding\obj\Debug\netcoreapp3.1\WindowHiding.genruntimeconfig.cache
+C:\Users\IEUser\Desktop\WPF-Samples-master\Windows\WindowHiding\obj\Debug\netcoreapp3.1\WindowHiding.csprojAssemblyReference.cache
+C:\Users\IEUser\Desktop\New folder\WindowHiding\bin\Debug\netcoreapp3.1\WindowHiding.exe
+C:\Users\IEUser\Desktop\New folder\WindowHiding\bin\Debug\netcoreapp3.1\WindowHiding.dll.config
+C:\Users\IEUser\Desktop\New folder\WindowHiding\bin\Debug\netcoreapp3.1\WindowHiding.deps.json
+C:\Users\IEUser\Desktop\New folder\WindowHiding\bin\Debug\netcoreapp3.1\WindowHiding.runtimeconfig.json
+C:\Users\IEUser\Desktop\New folder\WindowHiding\bin\Debug\netcoreapp3.1\WindowHiding.runtimeconfig.dev.json
+C:\Users\IEUser\Desktop\New folder\WindowHiding\bin\Debug\netcoreapp3.1\WindowHiding.dll
+C:\Users\IEUser\Desktop\New folder\WindowHiding\bin\Debug\netcoreapp3.1\WindowHiding.pdb
+C:\Users\IEUser\Desktop\New folder\WindowHiding\obj\Debug\netcoreapp3.1\WindowHiding.csprojAssemblyReference.cache
+C:\Users\IEUser\Desktop\New folder\WindowHiding\obj\Debug\netcoreapp3.1\WindowHiding.dll.config
+C:\Users\IEUser\Desktop\New folder\WindowHiding\obj\Debug\netcoreapp3.1\ChildWindow.g.cs
+C:\Users\IEUser\Desktop\New folder\WindowHiding\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\IEUser\Desktop\New folder\WindowHiding\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\IEUser\Desktop\New folder\WindowHiding\obj\Debug\netcoreapp3.1\WindowHiding_MarkupCompile.cache
+C:\Users\IEUser\Desktop\New folder\WindowHiding\obj\Debug\netcoreapp3.1\WindowHiding_MarkupCompile.lref
+C:\Users\IEUser\Desktop\New folder\WindowHiding\obj\Debug\netcoreapp3.1\ChildWindow.baml
+C:\Users\IEUser\Desktop\New folder\WindowHiding\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\IEUser\Desktop\New folder\WindowHiding\obj\Debug\netcoreapp3.1\WindowHiding.g.resources
+C:\Users\IEUser\Desktop\New folder\WindowHiding\obj\Debug\netcoreapp3.1\WindowHiding.Properties.Resources.resources
+C:\Users\IEUser\Desktop\New folder\WindowHiding\obj\Debug\netcoreapp3.1\WindowHiding.csproj.GenerateResource.cache
+C:\Users\IEUser\Desktop\New folder\WindowHiding\obj\Debug\netcoreapp3.1\WindowHiding.AssemblyInfoInputs.cache
+C:\Users\IEUser\Desktop\New folder\WindowHiding\obj\Debug\netcoreapp3.1\WindowHiding.AssemblyInfo.cs
+C:\Users\IEUser\Desktop\New folder\WindowHiding\obj\Debug\netcoreapp3.1\WindowHiding.csproj.CoreCompileInputs.cache
+C:\Users\IEUser\Desktop\New folder\WindowHiding\obj\Debug\netcoreapp3.1\WindowHiding.dll
+C:\Users\IEUser\Desktop\New folder\WindowHiding\obj\Debug\netcoreapp3.1\WindowHiding.pdb
+C:\Users\IEUser\Desktop\New folder\WindowHiding\obj\Debug\netcoreapp3.1\WindowHiding.genruntimeconfig.cache

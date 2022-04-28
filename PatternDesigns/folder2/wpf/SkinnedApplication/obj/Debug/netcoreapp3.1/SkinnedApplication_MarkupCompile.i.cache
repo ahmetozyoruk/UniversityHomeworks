@@ -1,0 +1,20 @@
+﻿SkinnedApplication
+1.0.0.0
+
+winexe
+C#
+.cs
+C:\Users\gecic\Desktop\WPF-Samples-master\Application Management\SkinnedApplication\obj\Debug\netcoreapp3.1\
+SkinnedApplication
+none
+false
+DEBUG;TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1;
+C:\Users\gecic\Desktop\WPF-Samples-master\Application Management\SkinnedApplication\App.xaml
+4-447392046
+
+14-1887454004
+1921654412462
+BlueSkin.xaml;ChildWindow.xaml;MainWindow.xaml;YellowSkin.xaml;
+
+False
+

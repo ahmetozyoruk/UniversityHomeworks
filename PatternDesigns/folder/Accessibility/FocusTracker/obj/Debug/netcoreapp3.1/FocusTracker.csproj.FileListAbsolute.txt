@@ -1,0 +1,15 @@
+C:\Users\gecic\Desktop\WPF-Samples-master\Accessibility\FocusTracker\bin\Debug\netcoreapp3.1\FocusTracker.exe
+C:\Users\gecic\Desktop\WPF-Samples-master\Accessibility\FocusTracker\bin\Debug\netcoreapp3.1\FocusTracker.dll.config
+C:\Users\gecic\Desktop\WPF-Samples-master\Accessibility\FocusTracker\bin\Debug\netcoreapp3.1\FocusTracker.deps.json
+C:\Users\gecic\Desktop\WPF-Samples-master\Accessibility\FocusTracker\bin\Debug\netcoreapp3.1\FocusTracker.runtimeconfig.json
+C:\Users\gecic\Desktop\WPF-Samples-master\Accessibility\FocusTracker\bin\Debug\netcoreapp3.1\FocusTracker.runtimeconfig.dev.json
+C:\Users\gecic\Desktop\WPF-Samples-master\Accessibility\FocusTracker\bin\Debug\netcoreapp3.1\FocusTracker.dll
+C:\Users\gecic\Desktop\WPF-Samples-master\Accessibility\FocusTracker\bin\Debug\netcoreapp3.1\FocusTracker.pdb
+C:\Users\gecic\Desktop\WPF-Samples-master\Accessibility\FocusTracker\obj\Debug\netcoreapp3.1\FocusTracker.csprojAssemblyReference.cache
+C:\Users\gecic\Desktop\WPF-Samples-master\Accessibility\FocusTracker\obj\Debug\netcoreapp3.1\FocusTracker.dll.config
+C:\Users\gecic\Desktop\WPF-Samples-master\Accessibility\FocusTracker\obj\Debug\netcoreapp3.1\FocusTracker.AssemblyInfoInputs.cache
+C:\Users\gecic\Desktop\WPF-Samples-master\Accessibility\FocusTracker\obj\Debug\netcoreapp3.1\FocusTracker.AssemblyInfo.cs
+C:\Users\gecic\Desktop\WPF-Samples-master\Accessibility\FocusTracker\obj\Debug\netcoreapp3.1\FocusTracker.csproj.CoreCompileInputs.cache
+C:\Users\gecic\Desktop\WPF-Samples-master\Accessibility\FocusTracker\obj\Debug\netcoreapp3.1\FocusTracker.dll
+C:\Users\gecic\Desktop\WPF-Samples-master\Accessibility\FocusTracker\obj\Debug\netcoreapp3.1\FocusTracker.pdb
+C:\Users\gecic\Desktop\WPF-Samples-master\Accessibility\FocusTracker\obj\Debug\netcoreapp3.1\FocusTracker.genruntimeconfig.cache

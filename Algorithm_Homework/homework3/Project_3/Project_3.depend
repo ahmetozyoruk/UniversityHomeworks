@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1609905457 source:/home/ahmet/Desktop/Algorithm_Homework/homework3/Project_3/main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
